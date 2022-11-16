@@ -30,9 +30,9 @@ const questions = [
         message: 'What is the usage of this application?',
     },
     {
-        type: 'input',
+        type: 'list',
         name: 'license',
-        message: 'What license are you using?',
+        choices: ['MIT', 'Apache 2.0', 'GPLv3', 'ISC', 'none'],
     },
     {
         type: 'input',
