@@ -20,9 +20,9 @@
   ## Description
   This code allows you to create a ReadME file
    ## Installation
-  You just need to clone the repo
+  Cloning the repository
    ## Usage
-  You just need to open the terminal, run node, answer the questions, and your ReadME file will be created
+  Open the terminal, run node, answer the questions, and you ReadME file will be created
    ## Contribution guidelines 
   N/A
    ## License
