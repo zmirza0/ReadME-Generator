@@ -32,7 +32,7 @@ const questions = [
     {
         type: 'input',
         name: 'contributions',
-        message: 'Who contributed to this application?',
+        message: 'How can someone contribute to this?',
     },
     {
         type: 'input',
