@@ -14,7 +14,7 @@
   ## Description
    This is code that allows you to easily create a ReadME file for your repositories.
    ## Installation
-   You need to copy/clone the repository.
+   You need to clone the repository.
    ## Usage
    You can open the terminal in VS code and run node, then simply answer the prompts given. After that, your ReadME file will be generated. 
    ## Credits/Contribution
