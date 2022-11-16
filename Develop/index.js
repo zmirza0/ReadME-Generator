@@ -16,11 +16,6 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'tableofc',
-        message: 'What are your table of contents?',
-    },
-    {
-        type: 'input',
         name: 'installation',
         message: 'List your steps on installation.',
     },
@@ -32,7 +27,7 @@ const questions = [
     {
         type: 'list',
         name: 'license',
-        choices: ['MIT', 'Apache 2.0', 'GPLv3', 'ISC', 'none'],
+        choices: ['MIT', 'Apache', 'GPLv3', 'ISC', 'none'],
     },
     {
         type: 'input',
